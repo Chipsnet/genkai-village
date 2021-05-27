@@ -1,5 +1,7 @@
 # genkai-village
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A81VPXD)
+
 ## このリポジトリについて
 
 このリポジトリは、[限界創作村](https://discord.gg/cVQZaxp)というDiscordサーバーのルールなどを管理する目的で使用されています。     
